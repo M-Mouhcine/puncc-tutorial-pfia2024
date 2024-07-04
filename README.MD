@@ -13,3 +13,7 @@ This repository contains the tutorial notebooks for the following topics:
 You can either work locally by cloning the project or open the notebooks following the collab link.
 
 ### Happy coding 💻!
+
+## Links
+- [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width=20> Punnc Github](https://github.com/deel-ai/puncc)
+- [📘 Puncc Documentation](https://deel-ai.github.io/puncc/index.html)
